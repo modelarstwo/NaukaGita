@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(52, 59, 65);
+    padding: 40px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+h3 {
+    margin-top: 5px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 30;
+    margin-bottom: 10px;
+}
